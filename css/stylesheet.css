@@ -1,5 +1,7 @@
 body {
-    background-color: darkslategray;
+    background-color: darkcyan;
+    border: 2px solid grey;
+    border-radius: 20px;
     font-family: Arial;
     color: white;
     max-width: fit-content;
@@ -8,4 +10,8 @@ body {
     padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
+}
+html {
+    background-color: darkslategray;
+    background-size: 10px 10px;
 }
